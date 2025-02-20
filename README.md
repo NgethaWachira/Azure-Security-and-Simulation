@@ -19,8 +19,11 @@ flexibility in managing accounts.
 
 ## Tools Used
 <div>
-<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Cloud-ffff00?style=for-the-badge&logo=Microsoft%20365&logoColor=white" alt="Microsoft Defender for Cloud">
-<img src="https://img.shields.io/badge/-Microsoft%20365%20Defender-e600ac?style=for-the-badge&logo=Microsoft%20Office&logoColor=white" alt="Microsoft 365 Defender">
+<img src="https://img.shields.io/badge/-Azure-00ffff?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Azure">
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Cloud-404040?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" alt="Microsoft Defender for Cloud">
+<img src="https://img.shields.io/badge/-Microsoft%20Defender-ffbb33?style=for-the-badge&logo=Microsoft%20Defender&logoColor=white" alt="Microsoft Defender">
+<img src="https://img.shields.io/badge/-Microsoft%20Defender%20for%20Office%20365-cc0044?style=for-the-badge&logo=Microsoft%20Office%20365&logoColor=white" alt="Microsoft Defender for Office 365">
+<img src="https://img.shields.io/badge/-Microsoft%20365%20Admin%20Center-ff33ff?style=for-the-badge&logo=Microsoft%20365&logoColor=white" alt="Microsoft 365 Admin Center">
 </div>
 
 ## Steps
